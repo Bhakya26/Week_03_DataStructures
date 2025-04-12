@@ -1,0 +1,6 @@
+Hello, world!
+This is a test file.
+Reading line by line using FileReader.
+Hello World!
+This is a test file.
+UTF-8 encoding in action.
